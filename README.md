@@ -23,3 +23,4 @@ Then call create_linearized_darks.py from the command line: `python create_linea
 - **Finally, put the resulting Linearized Darks into the proper sub-directory in your MIRAGE_DATA location:**
 E.g. `/home/anadkarni/JWST_Programs/mirage_reference_files/mirage_data/nircam/darks/linearized/<detector_name>/`
 
+**The list of Darks to be converted can be found in:** `darks_notes_CV3.txt`
